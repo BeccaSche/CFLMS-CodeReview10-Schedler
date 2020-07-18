@@ -1,0 +1,50 @@
+.b1{
+	background-image: url('../img/90s_hero.jpg');
+	background-position: center;
+ 	background-repeat: no-repeat; 
+  	background-size: cover; 
+
+}
+
+.b2{
+	background-color: #FFF9B1;
+}
+
+.c1{
+	color: #FE87BE !important;
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+	font-weight: bold;
+	font-size: 2.5rem;
+
+}
+
+.c2{
+	text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+	font-weight: bold;
+	font-size: 1.9rem;
+}
+
+.c3{
+	color: #BF99EC;
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+	font-weight: bold;
+	font-size: 1.3rem;
+}
+
+
+.t1{
+	color: #FE87BE;
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+	font-weight: bold;
+	font-size: 6rem;
+
+}
+
+.t2{
+	color: #8ECC1F;
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+	font-weight: bold;
+	font-size: 2.5rem;
+
+	
+}
